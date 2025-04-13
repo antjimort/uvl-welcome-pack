@@ -87,7 +87,7 @@ Plus, this document is based on this two resources:
 - Oficial web page: https://universal-variability-language.github.io/
 
 ### 2.1. UVL model example
-The following is a basic example of a UVL model describing the possible configurations of a car in a UVL file:
+The following is a basic example of a UVL model describing the possible configurations of a smartwatch in a UVL file:
 
 ```
 features
