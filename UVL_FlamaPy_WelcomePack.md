@@ -5,10 +5,15 @@
 ## Index
 1. [Introduction](#1-introduction)
 2. [What is UVL?](#2-what-is-uvl)
+
     2.1 [UVL model example](#21-uvl-model-example)
+
     2.2 [Basic structure of a UVL model](#22-basic-structure-of-a-uvl-model)
+
     2.3 [Syntax: Language specification](#23-syntax-language-specification)
+
     2.4 [Languaje design](#24-language-design)
+    
     - [mandatory](#mandatory)
     - [optional](#optional)
     - [alternative](#alternative)
