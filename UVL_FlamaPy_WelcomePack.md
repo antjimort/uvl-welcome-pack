@@ -13,7 +13,7 @@
     2.3 [Syntax: Language specification](#23-syntax-language-specification)
 
     2.4 [Languaje design](#24-language-design)
-    
+
     - [mandatory](#mandatory)
     - [optional](#optional)
     - [alternative](#alternative)
@@ -32,9 +32,13 @@
    
 
 4. [What is Flamapy?](#4-what-is-flamapy)
+
     4.1 [Flamapy components](#41-flamapy-components)
+
     4.2 [Basic flow](#42-basic-flow)
+
     4.3 [Metamodels](#43-metamodels)
+
     4.4 [Operations](#44-operations)
 
 
